@@ -1,0 +1,31 @@
+﻿{
+	"HTML":{
+			"subject1":"HTML Tutorial",
+			"subject2":"HTML Forms",
+			"subject3":"HTML5",
+			"subject4":"HTML Graphics",
+			"subject5":"HTML Media",
+			"subject6":"HTML APIs"
+	}
+	,"CSS":{
+			"subject1":"CSS Tutorial",
+			"subject2":"CSS3",
+			"subject3":"CSS Responsive"
+	}
+	,"JavaScript":{
+			"subject1":"JS Tutorial",
+			"subject2":"JS Forms",
+			"subject3":"JS Objects",
+			"subject4":"JS Functions",
+			"subject5":"JS HTML DOM",
+			"subject6":"JS Brower BOM",
+			"subject7":"JS Libraries"
+	},
+	"jQuery":{
+			"subject1":"jQuery Tutorial",
+			"subject2":"jQuery Effects",
+			"subject3":"jQuery HTML",
+			"subject4":"jQuery Traversing",
+			"subject5":"jQuery AJAX"
+	}
+}
